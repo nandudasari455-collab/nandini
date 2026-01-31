@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> my github page</title>
+
 </head>
 <body>
 <h1> welcome to my website</h1>
